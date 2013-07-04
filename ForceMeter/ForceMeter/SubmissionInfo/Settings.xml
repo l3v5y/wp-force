@@ -1,0 +1,10 @@
+<MarketplaceDetails>
+  <SmallAppTile>SubmissionIcon.png</SmallAppTile>
+  <LargeAppTile>
+  </LargeAppTile>
+  <PCAppTile>
+  </PCAppTile>
+  <ScreenShots>Screenshot.png;ScreenshotExtra.png;;;;;;;</ScreenShots>
+  <ScreenShotsWXGA>;;;;;;;;</ScreenShotsWXGA>
+  <ScreenShots720P>;;;;;;;;</ScreenShots720P>
+</MarketplaceDetails>
